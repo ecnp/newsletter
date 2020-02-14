@@ -1,0 +1,91 @@
+.eve-color-1 {
+  color: #96aa05;
+}
+
+.eve-color-2 {
+  color: rgb(103, 133, 193);
+}
+
+.eve-color-3 {
+  color: rgb(100, 50, 105);
+}
+
+.eve-color-4 {
+  color: rgb(150, 15, 104);
+}
+
+.eve-color-5 {
+  color: rgb(215, 103, 52);
+}
+
+.eve-color-6 {
+  color: rgb(227, 159, 3);
+}
+
+.eve-color-7 {
+  color: rgb(221, 179, 34);
+}
+
+.eve-bg-1 {
+  background-color: #96aa05;
+}
+
+.eve-bg-2 {
+  background-color: rgb(103, 133, 193);
+}
+
+.eve-bg-3 {
+  background-color: rgb(100, 50, 105);
+}
+
+.eve-bg-4 {
+  background-color: rgb(150, 15, 104);
+}
+
+.eve-bg-5 {
+  background-color: rgb(215, 103, 52);
+}
+
+.eve-bg-6 {
+  background-color: rgb(227, 159, 3);
+}
+
+.eve-bg-7 {
+  background-color: rgb(221, 179, 34);
+}
+
+.logo {
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 24px;
+  padding: 5px 10px;
+  font-family: Dosis,sans-serif;
+}
+
+.logo-light {
+  background-color: #fff;
+  color: #96aa05;
+}
+
+.logo-dark {
+  background-color: #96aa05;
+  color: #fff;
+}
+
+.logo-header {
+  background-color: transparent;
+  border: 1px solid #fff;
+  border-radius: 20px;
+  color: #fff;
+  font-size: 48px;
+  padding: 5px 20px;
+}
+
+.hover-shadow-1 {
+  border: 2px solid transparent !important;
+}
+
+.hover-shadow-1:hover {
+  border: 2px solid #000 !important;
+}
